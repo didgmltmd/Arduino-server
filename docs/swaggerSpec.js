@@ -14,7 +14,7 @@ const options = {
         description: '로컬 개발 서버',
       },
       {
-        url: 'https://arduino-server.onrender.com', // ✅ Render 배포용 (실제 도메인으로 바꿔도 됨)
+        url: 'https://arduino-server-o6py.onrender.com', // ✅ Render 배포용 (실제 도메인으로 바꿔도 됨)
         description: '배포 서버',
       },
     ],
