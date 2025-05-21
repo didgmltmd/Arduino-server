@@ -10,12 +10,12 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000',
-        description: '개발 서버',
+        url: 'https://arduino-server-o6py.onrender.com',
+        description: 'Render 배포 서버',
       },
     ],
   },
-  apis: ['./routes/*.js'], // Swagger 주석 위치
+  apis: ['./routes/*.js'],
 };
 
 const swaggerSpec = swaggerJSDoc(options);
