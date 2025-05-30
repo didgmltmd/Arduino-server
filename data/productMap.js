@@ -7,7 +7,7 @@ module.exports = {
   '125A9913' : {name: '콜라' ,price: 1500},
   '1D12AE1' : {name: '포스틱' ,price: 1200},
   '2FA055DE': {name: '빵' ,price: 1700},
-  '1D12AE01': {name: '라면' ,price: 1100},
+  '1D12AE01': {name: '콜라' ,price: 1500},
   '9380D70C': {name: '소고기' ,price: 30000},
   'E2094705': {name: '치킨' ,price: 12000}
 };
