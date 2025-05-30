@@ -1,6 +1,8 @@
+require('dotenv').config(); // 최상단에 추가!
 const http = require('http');
 const app = require('./app');
 const setupSocket = require('./socket');
+
 
 const PORT = process.env.PORT || 3000;
 
