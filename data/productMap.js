@@ -3,7 +3,7 @@ module.exports = {
   '9380D7C': { name: '콜라', price: 1500 },
   'AEA4C4DB': { name: '새우깡', price: 1500 },
   '73E37036': { name: '사이다', price: 1300 },
-  'E0815E1A' : {name: '아이스크림' ,price: 900},
+  'E0815E1A' : {name: '쌀' ,price: 10000},
   '125A9913' : {name: '콜라' ,price: 1500},
   '1D12AE1' : {name: '포스틱' ,price: 1200},
   '2FA055DE': {name: '빵' ,price: 1700},
